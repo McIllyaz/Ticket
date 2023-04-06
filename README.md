@@ -1,2 +1,0 @@
-# Ticket
-Latihan Member class
